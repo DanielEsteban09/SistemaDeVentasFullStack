@@ -1,0 +1,11 @@
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.deps.json
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\bin\Debug\net8.0\SistemaVentas.DTO.pdb
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.AssemblyInfoInputs.cache
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.AssemblyInfo.cs
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.csproj.CoreCompileInputs.cache
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\refint\SistemaVentas.DTO.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\SistemaVentas.DTO.pdb
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DTO\obj\Debug\net8.0\ref\SistemaVentas.DTO.dll

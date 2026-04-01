@@ -1,0 +1,15 @@
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.deps.json
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.DAL.pdb
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.AssemblyInfoInputs.cache
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.AssemblyInfo.cs
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.csproj.CoreCompileInputs.cache
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\refint\SistemaVentas.DAL.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.pdb
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\ref\SistemaVentas.DAL.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.Model.dll
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\bin\Debug\net8.0\SistemaVentas.Model.pdb
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaVentas.DAL.csproj.AssemblyReference.cache
+D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.DAL\obj\Debug\net8.0\SistemaV.09417178.Up2Date

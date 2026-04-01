@@ -1,0 +1,535 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.API\\SistemaVentas.API.csproj": {}
+  },
+  "projects": {
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.API\\SistemaVentas.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.API\\SistemaVentas.API.csproj",
+        "projectName": "SistemaVentas.API",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.API\\SistemaVentas.API.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
+        "projectName": "SistemaVentas.DAL",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "projectName": "SistemaVentas.DTO",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+        "projectName": "SistemaVentas.IOC",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\SistemaVentas.IOC.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj",
+        "projectName": "SistemaVentas.Model",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj",
+        "projectName": "SistemaVentas.Utility",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj",
+        "projectName": "SitemaVentas.BLL",
+        "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\SitemaVentas.BLL.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\SistemaVentas.DAL.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Model\\SistemaVentas.Model.csproj"
+              },
+              "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj": {
+                "projectPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\SistemaVentas.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
