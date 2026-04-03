@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FCA2B9-4F55-4ACA-BC30-CBFF67405299}|SistemaVentas.IOC\\SistemaVentas.IOC.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FCA2B9-4F55-4ACA-BC30-CBFF67405299}|SistemaVentas.IOC\\SistemaVentas.IOC.csproj|solutionrelative:sistemaventas.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|solutionrelative:sistemaventas.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|solutionrelative:sistemaventas.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6995D3B-738F-4155-A5B8-1A09041F7E90}|SistemaVentas.DAL\\SistemaVentas.DAL.csproj|solutionrelative:sistemaventas.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVentas.IOC\\Dependencia.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVentas.IOC\\Dependencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T02:42:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVentas.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVentas.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T02:13:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVentas.DAL\\Repositorios\\GenericRepository.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaVentas.DAL\\Repositorios\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:43:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVentas.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaVentas.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:33:21.726Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
