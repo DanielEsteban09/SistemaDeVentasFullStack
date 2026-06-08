@@ -6,6 +6,7 @@
     using SistemaVentas.DAL.DBContext;
     using SistemaVentas.DAL.Repositorios.Contrato;
     using SistemaVentas.DAL.Repositorios;
+    using SistemaVentas.Utility;
 
     public static class Dependencia
     {
@@ -18,6 +19,8 @@
 
             services.AddTransient(typeof(IGenericRepository<>),typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository,VentaRepository>();
+
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
 }
