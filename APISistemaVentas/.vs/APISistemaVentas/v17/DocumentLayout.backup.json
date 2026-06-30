@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79D56DEA-6093-415E-96ED-A1FEC9FB4A6E}|SistemaVentas.Utility\\SistemaVentas.Utility.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D56DEA-6093-415E-96ED-A1FEC9FB4A6E}|SistemaVentas.Utility\\SistemaVentas.Utility.csproj|solutionrelative:sistemaventas.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sitemaventas.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|solutionrelative:sitemaventas.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53FCA2B9-4F55-4ACA-BC30-CBFF67405299}|SistemaVentas.IOC\\SistemaVentas.IOC.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sistemaventas.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53FCA2B9-4F55-4ACA-BC30-CBFF67405299}|SistemaVentas.IOC\\SistemaVentas.IOC.csproj|solutionrelative:sistemaventas.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sitemaventas.bll\\servicios\\contrato\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|solutionrelative:sitemaventas.bll\\servicios\\contrato\\iventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sitemaventas.bll\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|solutionrelative:sitemaventas.bll\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|d:\\danie\\documents\\cursos\\sistemadeventasfullstack\\apisistemaventas\\sitemaventas.bll\\servicios\\contrato\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4801D34A-AD6F-42A2-B425-D2D921C7F7EF}|SitemaVentas.BLL\\SitemaVentas.BLL.csproj|solutionrelative:sitemaventas.bll\\servicios\\contrato\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dependencia.cs",
-              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\Dependencia.cs",
-              "RelativeDocumentMoniker": "SistemaVentas.IOC\\Dependencia.cs",
-              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.IOC\\Dependencia.cs",
-              "RelativeToolTip": "SistemaVentas.IOC\\Dependencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Title": "IVentaService.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\Contrato\\IVentaService.cs",
+              "RelativeDocumentMoniker": "SitemaVentas.BLL\\Servicios\\Contrato\\IVentaService.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\Contrato\\IVentaService.cs",
+              "RelativeToolTip": "SitemaVentas.BLL\\Servicios\\Contrato\\IVentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T00:38:42.714Z",
+              "WhenOpened": "2026-06-30T00:47:41.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutoMapperProfile.cs",
-              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\AutoMapperProfile.cs",
-              "RelativeDocumentMoniker": "SistemaVentas.Utility\\AutoMapperProfile.cs",
-              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SistemaVentas.Utility\\AutoMapperProfile.cs",
-              "RelativeToolTip": "SistemaVentas.Utility\\AutoMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SitemaVentas.BLL\\Servicios\\VentaService.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SitemaVentas.BLL\\Servicios\\VentaService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T21:54:42.386Z",
+              "WhenOpened": "2026-06-30T00:52:13.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\Contrato\\IRolService.cs",
+              "RelativeDocumentMoniker": "SitemaVentas.BLL\\Servicios\\Contrato\\IRolService.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\Contrato\\IRolService.cs",
+              "RelativeToolTip": "SitemaVentas.BLL\\Servicios\\Contrato\\IRolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T19:31:41.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\RolService.cs",
+              "RelativeDocumentMoniker": "SitemaVentas.BLL\\Servicios\\RolService.cs",
+              "ToolTip": "D:\\danie\\Documents\\Cursos\\SistemaDeVentasFullStack\\APISistemaVentas\\SitemaVentas.BLL\\Servicios\\RolService.cs",
+              "RelativeToolTip": "SitemaVentas.BLL\\Servicios\\RolService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T19:33:39.045Z",
               "EditorCaption": ""
             }
           ]
