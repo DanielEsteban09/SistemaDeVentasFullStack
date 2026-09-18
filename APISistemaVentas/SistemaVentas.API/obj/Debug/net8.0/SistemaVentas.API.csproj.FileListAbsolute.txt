@@ -92,5 +92,3 @@ D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVenta
 D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.API\bin\Debug\net8.0\SistemaVentas.Utility.pdb
 D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.API\bin\Debug\net8.0\AutoMapper.dll
 D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\danie\Documents\Cursos\SistemaDeVentasFullStack\APISistemaVentas\SistemaVentas.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
